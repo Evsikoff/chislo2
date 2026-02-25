@@ -1,0 +1,5 @@
+{
+  "name": "3D Number Guesser",
+  "description": "A 3D procedural number guessing game where the environment reacts to your guesses.",
+  "requestFramePermissions": []
+}
